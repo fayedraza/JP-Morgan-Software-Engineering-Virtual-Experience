@@ -1,7 +1,6 @@
 # JP Morgan Software Engineering Virtual Experience 
 
-JP Morgan Software Engineering Virtual Experience helps future software engineers to familiarize with JPMorgan Chase Frameworks
-and apply their technical skills to activities ranging from firm's trading floor to analyzing and visualizing data.
+JP Morgan Software Engineering Virtual Experience helps future software engineers to familiarize with JPMorgan Chase Frameworks and apply their technical skills to activities ranging from firm's trading floor to analyzing and visualizing data. Certificate was earned for the completion of these tasks.
 
 Tasks Included:
 
